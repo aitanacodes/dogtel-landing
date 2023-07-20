@@ -1,0 +1,95 @@
+{
+  "appTitle": "DogTel",
+  "subtitle": "Tu hotel para mascotas",
+  "sections": [
+    {
+      "title": "Qué es DogTel",
+      "titleImg": "/vector/dog-travel.svg",
+      "article": {
+        "bodyImgs": ["dog-01", "dog-02", "dog-03", "dog-05"],
+        "paragraphs": [
+          "DogTel es un hotel para mascotas donde podrás hospedar a tu compañero mientras estás fuera.",
+          "En DogTel, amamos a todas las mascotas y nos enorgullecemos de ofrecer el mejor cuidado para tus amigos peludos. Nuestro equipo está compuesto por amantes de los animales, dedicados a brindarles una estancia feliz y segura",
+          "Nuestras instalaciones están diseñadas para brindar comodidad y entretenimiento a tus mascotas. Ya sea que necesites un lugar para que tu perro se divierta o una acogedora cama para tu gato, ¡estamos aquí para atender todas sus necesidades!"
+        ]
+      },
+      "anchor": {
+        "name": "Qué es DogTel",
+        "id": "que-es-dogtel",
+        "hidden": true
+      }
+    },
+    {
+      "title": "Nuestras habitaciones",
+      "titleImg": "/vector/dog-bed.svg",
+      "article": {
+        "bodyImgs": ["dog-08", "cat-2", "dog-07"],
+        "paragraphs": [
+          "En DogTel, nuestras habitaciones están diseñadas pensando en la comodidad y el bienestar de tus mascotas. Contamos con habitaciones espaciosas y acogedoras para perros y gatos, equipadas con todas las comodidades que necesitan para sentirse como en casa.",
+          "Cada habitación está supervisada por nuestro equipo de cuidadores expertos, quienes se aseguran de que cada mascota reciba el cariño y la atención que merecen. También ofrecemos opciones especiales para mascotas mayores o con necesidades especiales.",
+          "La felicidad y seguridad de tus mascotas son nuestra máxima prioridad. Puedes confiar en nosotros para brindarles el cuidado que se merecen mientras estás lejos."
+        ]
+      },
+      "anchor": {
+        "name": "Habitaciones",
+        "id": "nuestras-habitaciones",
+        "hidden": false
+      }
+    },
+    {
+      "title": "Actividades y diversión",
+      "titleImg": "/vector/ball.svg",
+      "article": {
+        "bodyImgs": ["dog-04", "instalaciones", "cat-1"],
+        "paragraphs": [
+          "En DogTel, la diversión nunca termina. Nuestro amplio patio de juegos al aire libre está diseñado para que los perros corran, jueguen y socialicen en un ambiente seguro y supervisado.",
+          "Además, ofrecemos sesiones de juego individual y estimulación mental para gatos, asegurándonos de que estén entretenidos y felices durante toda su estancia.",
+          "Desde DogTel creemos que cada mascota es única y especial, por lo que nos esforzamos por brindarles actividades personalizadas que se adapten a sus intereses y necesidades."
+        ]
+      },
+      "anchor": {
+        "name": "Actividades",
+        "id": "actividades-y-diversion",
+        "hidden": false
+      }
+    },
+    {
+      "title": "Nuestros profesionales",
+      "titleImg": "/vector/dog-collar.svg",
+      "article": {
+        "bodyImgs": ["cuidador", "dog-06", "peluquería"],
+        "paragraphs": [
+          "Nuestros dedicados cuidadores son amantes apasionados de los animales, especialmente de nuestros queridos huéspedes caninos. Con un amor incondicional por los perros, nuestros cuidadores se aseguran de brindar un cuidado excepcional y personalizado a cada uno de nuestros peludos visitantes.",
+          "Desde proporcionarles cariño y atención individual hasta organizar actividades divertidas, nuestros cuidadores se esfuerzan por hacer que cada estancia sea feliz, segura y reconfortante para nuestros queridos amigos peludos."
+        ]
+      },
+      "anchor": {
+        "name": "Profesionales",
+        "id": "profesionales",
+        "hidden": false
+      }
+    },
+
+    {
+      "title": "Contacto y localización",
+      "titleImg": "/vector/cat-travel.svg",
+      "contact": {
+        "address": "Partida de las Rosas 103, 03420 Castalla, Alicante",
+        "googleMaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1325.700009570291!2d-0.6340506008026019!3d38.59507229999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63d4f10d71045b%3A0x6513f42e291204bd!2s03420%20Castalla%2C%20Alicante!5e1!3m2!1ses!2ses!4v1689781654517!5m2!1ses!2ses",
+        "schedule": "8 - 14h y de 17 - 21h",
+        "phone": "600000001",
+        "email": "dogtel@dogtel.com"
+      },
+      "anchor": {
+        "name": "Contacto",
+        "id": "contacto-y-localizacion",
+        "hidden": false
+      }
+    }
+  ],
+  "footer": {
+    "text": "Hecho con ♥️ por Aitana Hernández",
+    "linkedin": "https://www.linkedin.com/in/aitanahp/",
+    "github": "https://github.com/aitanacodes"
+  }
+}

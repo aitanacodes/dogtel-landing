@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Rancho&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  background-color: var(--color-alt-white);
+  color: var(--color-alt-black);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --color-isabelline: #efeae6;
+  --color-isabelline-translucent: rgba(230, 239, 236, 0.9);
+  --color-champagne-pink: #ead7d1;
+  --color-moss-green: rgb(137, 157, 120);
+  --color-moss-green-translucent: rgba(137, 157, 120, 0.7);
+  --color-paynes-grey: #505f7a;
+  --color-dark-purple: #1f1a38;
+
+  --color-white: #ffffff;
+  --color-alt-white: #f8f8f8;
+  --color-black: #000000;
+  --color-alt-black: #3c3c3c;
+
+  --light-box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.2);
+  --light-text-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  --light-border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in-after {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes floating {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
